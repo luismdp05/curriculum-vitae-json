@@ -1,0 +1,288 @@
+{
+  "basics": {
+    "name": "Katherine Milagros Pita Bustamante",
+    "label": "Obstetrician",
+    "image": "/me.jpg",
+    "email": "kpitabustamante98@gmail.com",
+    "phone": "(123) 555-1234",
+    "url": "https://kpitabustamante.vercel.app",
+    "summary": "Obstetrician graduated from the Faculty of Health Sciences at Antenor Orrego Private University, with skills and knowledge to work in the health field with commitment, dedication, and empathy. I have experience in primary care in reproductive and maternal perinatal health. I consider myself a person willing to learn and collaborate as a team to improve patient well-being, as well as contribute to the development of the institution and staff.",
+    "location": {
+      "address": "",
+      "postalCode": "13001",
+      "city": "Trujillo, La Libertad",
+      "countryCode": "PE",
+      "region": "Peru."
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kpitabustamante",
+        "url": "https://www.linkedin.com/in/kpitabustamante/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HOSPITAL BELÉN DE TRUJILLO",
+      "position": "Obstetrician - Administrative management service in referrals and counter-referrals",
+      "url": "https://www.hbt.gob.pe/",
+      "startDate": "2024-07-08",
+      "endDate": null,
+      "summary": "● Responsible for digitizing referrals to more complex establishments.\n● Support in coordinating with the national referral and counter-referral system managers for the acceptance and referral of 300 patients.\n● Support in coordinating with the doctor responsible for each patient to be transferred.\n● Update and provide respective information as required by the destination establishment.\n● Support in managing humanitarian flights before the UDR for patient transfer.\n● Support each doctor responsible for each patient to refer, consolidating the documents required by the destination IPRESS.\n● Provide permanent information to doctors responsible for each patient with an emergency referral request and acceptance.\n● Coordinate with the doctor and nurse for the provision of supplies and/or equipment for patient transfer.\n● Inform the on-call doctor of the time and means of transport the patient will travel.\n● Inform patients of the status of their referral.",
+      "highlights": []
+    },
+    {
+      "name": "SUB-REGIONAL HEALTH MANAGEMENT CUTERVO",
+      "position": "Obstetrician - La Ramada Health Center",
+      "url": "http://www.disacutervo.gob.pe/",
+      "startDate": "2023-08-08",
+      "endDate": "2024-07-03",
+      "summary": "● Coordination of referrals during obstetric emergencies.\n● Coordination of obstetric counter-referrals of the Micronetwork.\n● Manual referral registration and reporting.\n● Monthly participation in the analysis of referrals and counter-referrals of Micronetwork users.\n● Management of the referral and counter-referral system.\n● Transfer of pregnant patients with referrals for emergencies, outpatient consultations, and diagnostic support.\n● Responsible for the family planning program.\n● Responsible for the adolescent program.\n● Responsible for the young life program.\n● Responsible for the MIS (family health).\n● Support in the STI, HIV program.\n● Support in the CACU program.\n● Support in the sexual and reproductive health program.\n● Prenatal care.\n● Follow-up of high-risk pregnant women.\n● Care of imminent deliveries.\n● Care of uncomplicated deliveries.\n● Support in training plans, supervisions, and comprehensive care.\n● Support in emergencies and on-call shifts as needed, etc.",
+      "highlights": []
+    },
+    {
+      "name": "RED ASISTENCIAL LA LIBERTAD - ESSALUD",
+      "position": "Obstetrician Serums – CAP II Huamachuco",
+      "url": "http://www.essalud.pe.gob/",
+      "startDate": "2022-07-01",
+      "endDate": "2023-06-11",
+      "summary": "● Responsible for strategies: sexual and reproductive health, family planning, STIs, and cancer.\n● Prenatal care.\n● Follow-up of high-risk pregnant women.\n● Comprehensive care for women in their reproductive stage.\n● Administration of contraceptive methods.\n● Guidance and counseling on sexual and reproductive health in adolescents.\n● Diagnosis and treatment of STIs.\n● Preventive-promotional activities for cervical cancer (Pap smear) and breast cancer (clinical breast exam).",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "ANTENOR ORREGO PRIVATE UNIVERSITY",
+      "url": "https://upao.edu.pe/",
+      "area": "Obstetrics",
+      "studyType": "Professional Degree in Obstetrics",
+      "startDate": "2015-04-01",
+      "endDate": "2021-12-21",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "ANTENOR ORREGO PRIVATE UNIVERSITY",
+      "url": "https://upao.edu.pe/",
+      "area": "Obstetrics",
+      "studyType": "Bachelor's Degree in Obstetrics",
+      "startDate": "2015-04-01",
+      "endDate": "2021-12-21",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "preprofessional": [
+    {
+      "name": "Ministry of Health",
+      "place": "Internship at Pacanguilla Health Center.",
+      "position": "Professional Intern",
+      "startDate": "October 2020",
+      "endDate": "February 2021"
+    },
+    {
+      "name": "Ministry of Health",
+      "place": "Internship at El Esfuerzo District Hospital.",
+      "position": "Professional Intern",
+      "startDate": "January 2020",
+      "endDate": "March 2021"
+    },
+    {
+      "name": "Ministry of Health",
+      "place": "Internship at Trujillo Regional Teaching Hospital.",
+      "position": "Professional Intern",
+      "startDate": "July 2019",
+      "endDate": "December 2019"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Knowledge in managing the referral and counter-referral system."
+    },
+    {
+      "name": "Knowledge in managing the Refcon software and bed management process."
+    },
+    {
+      "name": "MICROSOFT OFFICE: Basic Level."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native Language"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate Level"
+    }
+  ],
+  "research": [
+    {
+      "name": "Research Project",
+      "summary": "Effects of cajau cajan seed “mountain bean” on the blood hemoglobin concentration of young oryctolagus cuniculus “rabbit” under UPAO clinical laboratory conditions 2019."
+    }
+  ],
+  "complementarystudies": [
+    {
+      "institution": "PAN AMERICAN HEALTH ORGANIZATION",
+      "summary": "Course “Introduction to Health Information Systems”",
+      "endDate": "December 2024"
+    },
+    {
+      "institution": "OFFICE OF SUPPORT FOR TEACHING AND RESEARCH",
+      "summary": "Course “Ethics in Public Management”",
+      "endDate": "December 2024"
+    },
+    {
+      "institution": "CATHOLIC UNIVERSITY OF TRUJILLO",
+      "summary": "Course “First Aid and Personal Safety”",
+      "endDate": "November 2024"
+    },
+    {
+      "institution": "PAN AMERICAN HEALTH ORGANIZATION",
+      "summary": "Course “Update on Family Planning for Primary Health Care”",
+      "endDate": "November 2024"
+    },
+    {
+      "institution": "OFFICE OF SUPPORT FOR TEACHING AND RESEARCH",
+      "summary": "Course “Law in Health and Good Treatment of the User”",
+      "endDate": "November 2024"
+    },
+    {
+      "institution": "SUB-REGIONAL HEALTH MANAGEMENT - CUTERVO",
+      "summary": "Workshop course “Contraceptive Methodology with Emphasis on Long-Term Methods”",
+      "endDate": "June 2024"
+    },
+    {
+      "institution": "CARLOS SLIM FOUNDATION",
+      "summary": "Diploma “Comprehensive Approach to Women During Gestation”",
+      "endDate": "February 2024"
+    },
+    {
+      "institution": "CARLOS SLIM FOUNDATION",
+      "summary": "Course “Prevention and Care of Obstetric Diseases - Puerperium”",
+      "endDate": "February 2024"
+    },
+    {
+      "institution": "CARLOS SLIM FOUNDATION",
+      "summary": "Course “Prevention and Care of Obstetric Diseases - Third Trimester”",
+      "endDate": "February 2024"
+    },
+    {
+      "institution": "SUB-REGIONAL HEALTH MANAGEMENT - CUTERVO",
+      "summary": "Course “Disaster Risk Management and Climate Change Adaptation, with Emphasis on Damage Assessment and Needs Analysis - EDAN”",
+      "endDate": "January 2024"
+    },
+    {
+      "institution": "OBSTETRICS TRAINING CENTER",
+      "summary": "Course “Prenatal Care: Refocused, Management Criteria According to Technical Standard No. 105”",
+      "endDate": "January 2024"
+    },
+    {
+      "institution": "CARLOS SLIM FOUNDATION",
+      "summary": "Course “Prevention and Care of Obstetric Diseases - Second Trimester”",
+      "endDate": "November 2023"
+    },
+    {
+      "institution": "SUB-REGIONAL HEALTH MANAGEMENT - CUTERVO",
+      "summary": "Course “Refocused Prenatal Care and Intercultural Adaptation Delivery”",
+      "endDate": "December 2023"
+    },
+    {
+      "institution": "CARLOS SLIM FOUNDATION",
+      "summary": "Course “Prevention and Care of Obstetric Diseases - First Trimester”",
+      "endDate": "November 2023"
+    },
+    {
+      "institution": "CARLOS SLIM FOUNDATION",
+      "summary": "Course “Prevention and Care of Obstetric Diseases - Prenatal”",
+      "endDate": "November 2023"
+    },
+    {
+      "institution": "REGIONAL HEALTH DIRECTORATE CAJAMARCA",
+      "summary": "Course “Strengthening Competencies for Comprehensive Health Care in Youth”",
+      "endDate": "November 2023"
+    },
+    {
+      "institution": "PAN AMERICAN HEALTH ORGANIZATION",
+      "summary": "Course “Accelerating the Elimination of Congenital Syphilis: Ensuring Timely Diagnosis and Treatment”",
+      "endDate": "November 2023"
+    },
+    {
+      "institution": "DIRECTORATE OF CANCER PREVENTION AND CONTROL OF THE MINISTRY OF HEALTH",
+      "summary": "Course “Cervical Cancer Screening Through Molecular Detection of Human Papillomavirus”",
+      "endDate": "October 2023"
+    },
+    {
+      "institution": "REGIONAL COLLEGE OF OBSTETRICIANS II – LA LIBERTAD",
+      "summary": "Workshop course “Electronic Fetal Monitoring: Fetal Well-being Loss, Normal and Pathological Traces”",
+      "endDate": "August 2023"
+    },
+    {
+      "institution": "NATIONAL UNIVERSITY SANTIAGO ANTÚNEZ DE MAYOLO",
+      "summary": "Specialization “Obstetric and Gynecological Emergencies”",
+      "endDate": "April 2023"
+    },
+    {
+      "institution": "NATIONAL UNIVERSITY OF SAN MARTÍN",
+      "summary": "Course “Referral and Counter-referral Systems REFCON”",
+      "endDate": "February 2023"
+    },
+    {
+      "institution": "NATIONAL SCHOOL OF PUBLIC HEALTH",
+      "summary": "Course “Health Management in Primary Care”",
+      "endDate": "October 2022"
+    },
+    {
+      "institution": "NATIONAL SCHOOL OF PUBLIC HEALTH",
+      "summary": "Course “Telehealth in Primary Care”",
+      "endDate": "October 2022"
+    },
+    {
+      "institution": "L & S CONSULTANTS AND ASSOCIATION SAC",
+      "summary": "Specialized Training Course: CASIMAP Method “Body Awareness, Sensory Conditioning, Integration and Aquatic Movement for Labor”",
+      "endDate": "June 2022"
+    },
+    {
+      "institution": "L & S CONSULTANTS AND ASSOCIATION SAC",
+      "summary": "Update Course: Role and Strategy of the Obstetrician to Contribute to Improving Adolescent Health",
+      "endDate": "February 2022"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "https://project.com/"
+    }
+  ]
+}

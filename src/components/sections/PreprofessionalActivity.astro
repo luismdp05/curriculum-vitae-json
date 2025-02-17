@@ -1,0 +1,64 @@
+---
+import Section from "../Section.astro"
+
+import { preprofessional } from "@cv"
+---
+
+<Section title="Actividad preprofesional">
+  <ul>
+    {
+      preprofessional.map(({ name, place, startDate, endDate }) => {
+        return (
+          <li>
+            <article>
+              <header>
+                <div>
+                  <h3>{name}</h3>
+                </div>
+
+                <div>
+                  <time datetime={startDate} data-title={startDate}>{startDate}</time> - <time datetime={endDate} data-title={endDate}>{endDate}</time>
+                </div>
+              </header>
+
+              <footer>
+                <p>{place}</p>
+              </footer>
+            </article>
+          </li>
+        )
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  article h3 {
+    font-weight: 500;
+    color: #111;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 4px;
+  }
+
+  time {
+    color: #555;
+    font-size: 0.85rem;
+  }
+
+  @media (width <= 700px) {
+    time {
+      text-align: right;
+    }
+  }
+</style>

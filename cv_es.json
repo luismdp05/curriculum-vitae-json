@@ -1,0 +1,288 @@
+{
+  "basics": {
+    "name": "Katherine Milagros Pita Bustamante",
+    "label": "Obstetra",
+    "image": "/me.jpg",
+    "email": "kpitabustamante98@gmail.com",
+    "phone": "(123) 555-1234",
+    "url": "https://kpitabustamante.vercel.app",
+    "summary": "Obstetra graduada de la Facultad de Ciencias de la Salud de la Universidad Privada Antenor Orrego, con habilidades y conocimientos para trabajar en el ámbito de la salud con compromiso, dedicación y empatía. Tengo experiencia en atención primaria en salud sexual reproductiva y materno perinatal. Me considero una persona dispuesta a aprender y colaborar en equipo para mejorar el bienestar del paciente, así como contribuir al desarrollo de la institución y el personal.",
+    "location": {
+      "address": "",
+      "postalCode": "13001",
+      "city": "Trujillo, La Libertad",
+      "countryCode": "PE",
+      "region": "Perú."
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kpitabustamante",
+        "url": "https://www.linkedin.com/in/kpitabustamante/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HOSPITAL BELÉN DE TRUJILLO",
+      "position": "Obstetra - Servicio de gestión administrativa en referencias y contrarreferencias",
+      "url": "https://www.hbt.gob.pe/",
+      "startDate": "2024-07-08",
+      "endDate": null,
+      "summary": "● Responsable de la digitación de referencias a establecimientos de mayor complejidad.\n● Apoyo en la coordinación con los responsables del sistema de referencias y contrarreferencias a nivel nacional para la aceptación y referencia de 300 pacientes.\n● Apoyo en la coordinación con el médico responsable de cada paciente a ser trasladado.\n● Actualización e información respectiva según el requerimiento del establecimiento de destino.\n● Apoyo en la gestión ante la UDR para vuelos humanitarios, para el traslado del paciente.\n● Apoyar a cada médico responsable de cada paciente a referir, consolidando los documentos requeridos por la IPRESS de destino.\n● Brindar información permanente a los médicos responsables de cada paciente con solicitud de referencia y aceptación de referencia de emergencia.\n● Coordinar con médico y enfermera la provisión de insumos y/o equipos para el traslado del paciente.\n● Informar al médico de turno hora y medio de transporte que viajará el paciente.\n● Informar a pacientes el estado de su referencia.",
+      "highlights": []
+    },
+    {
+      "name": "SUB-GERENCIA REGIONAL DE SALUD CUTERVO",
+      "position": "Obstetra - Centro de Salud La Ramada",
+      "url": "http://www.disacutervo.gob.pe/",
+      "startDate": "2023-08-08",
+      "endDate": "2024-07-03",
+      "summary": "● Coordinación de referencias durante las emergencias obstétricas.\n● Coordinación de contrarreferencias obstétricas de la Microred.\n● Registro e informe de referencias manuales.\n● Participación mensual en análisis de referencias y contrarreferencias de los usuarios de la Microred.\n● Manejo del sistema de referencia y contrarreferencia.\n● Traslado de pacientes gestantes con referencias para emergencia, consulta externa y apoyo diagnóstico.\n● Responsable del programa de planificación familiar.\n● Responsable del programa adolescente.\n● Responsable del programa vida joven.\n● Responsable del MIS (salud familiar).\n● Apoyo en el programa ITS, VIH.\n● Apoyo en el programa de CACU.\n● Apoyo en el programa de salud sexual y reproductiva.\n● Atención prenatal.\n● Seguimiento de gestantes de alto riesgo.\n● Atención de partos eminentes.\n● Atención de partos no complicados.\n● Apoyo en plan de capacitaciones, supervisiones y atenciones integrales.\n● Apoyo en emergencias y retenes según la necesidad del servicio, etc.",
+      "highlights": []
+    },
+    {
+      "name": "RED ASISTENCIAL LA LIBERTAD - ESSALUD",
+      "position": "Obstetra Serums – CAP II Huamachuco",
+      "url": "http://www.essalud.pe.gob/",
+      "startDate": "2022-07-01",
+      "endDate": "2023-06-11",
+      "summary": "● Responsable de las estrategias: salud sexual y reproductiva, planificación familiar, ITS y cáncer.\n● Atención prenatal.\n● Seguimiento de gestantes de alto riesgo.\n● Atención integral a la mujer en su etapa reproductiva.\n● Administración de métodos anticonceptivos.\n● Orientación y consejería en salud sexual y reproductiva en adolescentes.\n● Diagnóstico y tratamiento de ITS.\n● Actividades preventivo-promocionales para cáncer de cuello uterino (toma de papanicolaou) y cáncer de mamas (examen clínico de mamas).",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIVERSIDAD PRIVADA ANTENOR ORREGO",
+      "url": "https://upao.edu.pe/",
+      "area": "Obstetricia",
+      "studyType": "Título profesional en Obstetricia",
+      "startDate": "2015-04-01",
+      "endDate": "2021-12-21",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "UNIVERSIDAD PRIVADA ANTENOR ORREGO",
+      "url": "https://upao.edu.pe/",
+      "area": "Obstetricia",
+      "studyType": "Bachiller en Obstetricia",
+      "startDate": "2015-04-01",
+      "endDate": "2021-12-21",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "preprofessional": [
+    {
+      "name": "Ministerio de Salud",
+      "place": "Internado en el Centro de Salud Pacanguilla.",
+      "position": "Practicante profesional",
+      "startDate": "octubre 2020",
+      "endDate": "febrero 2021"
+    },
+    {
+      "name": "Ministerio de Salud",
+      "place": "Internado Hospital Distrital el Esfuerzo.",
+      "position": "Practicante profesional",
+      "startDate": "enero 2020",
+      "endDate": "marzo 2021"
+    },
+    {
+      "name": "Ministerio de Salud",
+      "place": "Internado en el Hospital Regional Docente de Trujillo.",
+      "position": "Practicante profesional",
+      "startDate": "julio 2019",
+      "endDate": "diciembre 2019"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Conocimientos en manejo del sistema de referencias y contrarreferencias."
+    },
+    {
+      "name": "Conocimientos en manejo del software de refcon y proceso de gestión de camas."
+    },
+    {
+      "name": "MICROSOFT OFFICE: Nivel Básico."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Idioma Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Nivel Intermedio"
+    }
+  ],
+  "research": [
+    {
+      "name": "Proyecto de Investigación",
+      "summary": "Efectos de la semilla cajau cajan “frijol montañero” en la concentración de hemoglobina en sangre de oryctolagus cuniculus “conejo” jóvenes en condiciones de laboratorio clínico UPAO 2019."
+    }
+  ],
+  "complementarystudies": [
+    {
+      "institution": "ORGANIZACIÓN PANAMERICANA DE LA SALUD",
+      "summary": "Curso “Instrucción a los Sistemas de Información para la Salud”",
+      "endDate": "diciembre 2024"
+    },
+    {
+      "institution": "OFICINA DE APOYO A LA DOCENCIA E INVESTIGACIÓN",
+      "summary": "Curso “Ética en la Gestión Pública”",
+      "endDate": "diciembre 2024"
+    },
+    {
+      "institution": "UNIVERSIDAD CATÓLICA DE TRUJILLO",
+      "summary": "Curso “Primeros Auxilios y Seguridad Personal”",
+      "endDate": "noviembre 2024"
+    },
+    {
+      "institution": "ORGANIZACIÓN PANAMERICANA DE LA SALUD",
+      "summary": "Curso “Actualización en Planificación Familiar para Atención Primaria de Salud”",
+      "endDate": "noviembre 2024"
+    },
+    {
+      "institution": "OFICINA DE APOYO A LA DOCENCIA E INVESTIGACIÓN",
+      "summary": "Curso “Derecho en Salud y Buen Trato al Usuario”",
+      "endDate": "noviembre 2024"
+    },
+    {
+      "institution": "DIRECCIÓN SUB REGIONAL DE SALUD - CUTERVO",
+      "summary": "Curso taller “Metodología Anticonceptiva con Énfasis en Métodos de Larga Duración”",
+      "endDate": "junio 2024"
+    },
+    {
+      "institution": "FUNDACIÓN CARLOS SLIM",
+      "summary": "Diplomado “Abordaje Integral de la Mujer Durante la Gestación”",
+      "endDate": "febrero 2024"
+    },
+    {
+      "institution": "FUNDACIÓN CARLOS SLIM",
+      "summary": "Curso “Prevención y Atenciones de Enfermedades Obstétricas - Puerperio”",
+      "endDate": "febrero 2024"
+    },
+    {
+      "institution": "FUNDACIÓN CARLOS SLIM",
+      "summary": "Curso “Prevención y Atenciones de Enfermedades Obstétricas - Tercer Trimestre”",
+      "endDate": "febrero 2024"
+    },
+    {
+      "institution": "DIRECCIÓN SUB REGIONAL DE SALUD - CUTERVO",
+      "summary": "Curso “Gestión del Riesgo de Desastres y Adaptación al Cambio Climático, con Énfasis en la Evaluación de Daños y Análisis de Necesidades - EDAN”",
+      "endDate": "enero 2024"
+    },
+    {
+      "institution": "CENTRO DE CAPACITACIÓN OBSTÉTRICA",
+      "summary": "Curso “Atención Prenatal: Reenfocada, Criterios de Manejo Según la Norma Técnica N°105”",
+      "endDate": "enero 2024"
+    },
+    {
+      "institution": "FUNDACIÓN CARLOS SLIM",
+      "summary": "Curso “Prevención y Atenciones de Enfermedades Obstétricas - Segundo Trimestre”",
+      "endDate": "noviembre 2023"
+    },
+    {
+      "institution": "DIRECCIÓN SUB REGIONAL DE SALUD - CUTERVO",
+      "summary": "Curso “Atención Prenatal Reenfocada y Parto con Adecuación Intercultural”",
+      "endDate": "diciembre 2023"
+    },
+    {
+      "institution": "FUNDACIÓN CARLOS SLIM",
+      "summary": "Curso “Prevención y Atenciones de Enfermedades Obstétricas - Primer Trimestre”",
+      "endDate": "noviembre 2023"
+    },
+    {
+      "institution": "FUNDACIÓN CARLOS SLIM",
+      "summary": "Curso “Prevención y Atenciones de Enfermedades Obstétricas - Prenatales”",
+      "endDate": "noviembre 2023"
+    },
+    {
+      "institution": "DIRECCIÓN REGIONAL DE SALUD CAJAMARCA",
+      "summary": "Curso “Fortalecimiento de Competencias para la Atención Integral de Salud en la/el Joven”",
+      "endDate": "noviembre 2023"
+    },
+    {
+      "institution": "ORGANIZACIÓN PANAMERICANA DE LA SALUD",
+      "summary": "Curso “Acelerando la Eliminación de Sífilis Congénita: Asegurando Diagnóstico y Tratamiento Oportunos”",
+      "endDate": "noviembre 2023"
+    },
+    {
+      "institution": "DIRECCIÓN DE PREVENCIÓN Y CONTROL DEL CÁNCER DEL MINISTERIO DE SALUD",
+      "summary": "Curso “Tamizaje de Cáncer de Cuello Uterino Mediante Detección Molecular del Virus del Papiloma Humano”",
+      "endDate": "octubre 2023"
+    },
+    {
+      "institution": "COLEGIO REGIONAL DE OBSTETRAS II – LA LIBERTAD",
+      "summary": "Curso taller “Monitoreo Electrónico Fetal: Pérdida de Bienestar Fetal, Trazados Normales y Patológicos”",
+      "endDate": "agosto 2023"
+    },
+    {
+      "institution": "UNIVERSIDAD NACIONAL SANTIAGO ANTÚNEZ DE MAYOLO",
+      "summary": "Especialización “Urgencias Obstétricas y Ginecológicas”",
+      "endDate": "abril 2023"
+    },
+    {
+      "institution": "UNIVERSIDAD NACIONAL DE SAN MARTÍN",
+      "summary": "Curso “Sistemas de Referencias y Contrarreferencias REFCON”",
+      "endDate": "febrero 2023"
+    },
+    {
+      "institution": "ESCUELA NACIONAL DE SALUD PÚBLICA",
+      "summary": "Curso “Gestión Sanitaria en el Primer Nivel de Atención”",
+      "endDate": "octubre 2022"
+    },
+    {
+      "institution": "ESCUELA NACIONAL DE SALUD PÚBLICA",
+      "summary": "Curso “Telesalud en Primer Nivel de Atención”",
+      "endDate": "octubre 2022"
+    },
+    {
+      "institution": "L & S CONSULTORES Y ASOCIACIÓN SAC",
+      "summary": "Curso de Especialización Formativa: Método CASIMAP “Conciencia Corporal, Acondicionamiento Sensorial Integración y Movimiento Acuático para el Parto.",
+      "endDate": "junio 2022"
+    },
+    {
+      "institution": "L & S CONSULTORES Y ASOCIACIÓN SAC",
+      "summary": "Curso de Actualización: Rol y Estrategia del Obstetra para Contribuir a Mejorar la Salud del Adolescente",
+      "endDate": "febrero 2022"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "https://project.com/"
+    }
+  ]
+}
