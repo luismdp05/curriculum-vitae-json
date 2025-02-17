@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>
-    <em>Mi</em> Curriculum Vitae formato JSON
+    <em>Curriculum Vitae formato JSON
 </h2>
 <p>
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
